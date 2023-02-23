@@ -1,0 +1,19 @@
+@media screen and (max-width: 700px) {
+    header {
+        align-items: initial;
+        margin-left: 1rem;
+    }
+
+    header ul {
+        display: none;
+    }
+
+    main section div#container-form {
+        backdrop-filter: none;
+    }
+
+    #info-container {
+       flex-direction: column;
+       background: linear-gradient(#4444447a, rgb(41, 40, 40));
+    }
+}

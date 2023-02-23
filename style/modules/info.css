@@ -1,0 +1,19 @@
+#info-container {
+    display: flex;
+    gap: 2.6rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#info-container div.info-mine {
+    text-align: center;
+}
+
+div.info-mine {
+    margin-top: 5%;
+}
+
+div.info-mine p {
+    color: white;
+    font-size: 1.1rem;
+}
