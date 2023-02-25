@@ -10,9 +10,18 @@ header img {
     margin: 1rem 0;
 }
 
+.menu-mobile {
+    display: none;
+    height: 3rem;
+}
+
 nav ul {
     display: flex;
     list-style: none;
+}
+
+header ul.active {
+    display: flex;
 }
 
 nav ul li {

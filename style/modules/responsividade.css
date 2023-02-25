@@ -6,6 +6,21 @@
 
     header ul {
         display: none;
+        z-index: 1;
+    }
+    
+    .menu-mobile {
+        display: block;
+    }
+
+    header ul.active {
+        display: flex;
+        flex-direction: column;
+        z-index: 1;
+    }
+
+    header ul li:last-child {
+        margin-bottom: 2rem;
     }
 
     main section div#container-form {

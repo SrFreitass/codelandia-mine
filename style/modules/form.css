@@ -1,4 +1,4 @@
-main section form {
+.main section form {
     flex-direction: column;
     margin: 0 auto;
     height: 60vh;
@@ -6,7 +6,7 @@ main section form {
     max-width: 30rem;
 }
 
-main section div#container-form {
+.main section div#container-form {
     box-sizing: none;
     background: rgba(38, 38, 38, 0.8);
     border: 1px solid rgba(115, 115, 115, 0.5);
@@ -18,24 +18,24 @@ main section div#container-form {
     padding: 1rem 2rem;
 }
 
-main section div#container-form img {
+.main section div#container-form img {
     width: 2.2rem;
 }
 
-main section form a {
+.main section form a {
     text-align: center;
     color: #33E29A;
     margin-top: 0.5rem;
 }
 
-main section form div#container-form input {
+.main section form div#container-form input {
     background-color: #262626;
     color: white;
     border: #414141 0.1rem solid;
     border-radius: 0.2rem;
 }
 
-main section form div#container-form label{
+.main section form div#container-form label{
     color: white;
 }
 
@@ -43,13 +43,27 @@ main section form div#container-form label{
     font-size: 0.87rem;
 }
 
-main section form div#container-form button {
+.main section form div#container-form button {
     background: linear-gradient(90.89deg, #22AE75 0%, #00874F 52.36%);
     box-shadow: 0px 0px 0px 8px rgba(255, 255, 255, 0.05), 0px 2px 0px #FFFFFF, inset 0px 2px 0px rgba(255, 255, 255, 0.4);
     border-radius: 6px;
     font-size: 1.25rem;
 }
 
-main section form div#container-form a:hover {
+.main section form div#container-form a:hover {
     color: #33E29A;
+}
+
+.main {
+    animation: animation 1s forwards;
+}
+
+@keyframes animation {
+    0% {
+        opacity: 0;
+        transform: translate3d(0, -30px, 0);
+    } 100% {
+        opacity: 1;
+        transform: translate3d(0,0,0);
+    }
 }
