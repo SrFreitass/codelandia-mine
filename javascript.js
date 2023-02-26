@@ -1,5 +1,5 @@
 const botaoMenu = document.querySelector('.menu-mobile');
-const listaMenu = document.querySelector('.lista-navegacao');
+const listaMenu = document.querySelector('#header');
 
 function activeAccordion() {
     listaMenu.classList.toggle('active');

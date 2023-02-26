@@ -9,18 +9,25 @@ header img {
     width: 7.5rem;
     margin: 1rem 0;
 }
-
+header.active .menu-mobile {
+    color: #33E29A;
+}
 .menu-mobile {
     display: none;
     height: 3rem;
+    background: none;
+    border: none;
+    color: white;
 }
-
+.menu-mobile:focus {
+    outline: none;
+}
 nav ul {
     display: flex;
     list-style: none;
 }
 
-header ul.active {
+header.active ul {
     display: flex;
 }
 
