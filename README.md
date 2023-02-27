@@ -1,17 +1,40 @@
-# Codelândia - Projeto Mine 🚀
 
-Este é meu primeiro projeto no GitHub e estou muito animado em compartilhá-lo com vocês! 😃 Este projeto foi criado como uma forma de aplicar e aprimorar meus conhecimentos em HTML, CSS e JavaScript.
+# Codelândia - Minecraft Project 🚀 EN
+
+This is my first project on GitHub and I'm very excited to share it with you! 😃 This project was created as a way to apply and improve my knowledge in HTML, CSS, and JavaScript.
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 30px;">
   <div style="text-align: center; margin-right: 50px;">
-    <p style="font-weight: 800; margin-bottom: 10px;">🖥️ Desktop</p>
-    <img src="./assets/images/Desktop.png" alt="Captura de tela do projeto em execução" width="600">
+    <p style="font-weight: bold; margin-bottom: 10px;">🖥️ Desktop</p>
+    <img src="./assets/images/desktop.png" alt="Captura de tela do projeto em execução" width="600">
   </div>
   <div style="text-align: center;">
-    <p style="font-weight: 800; margin-bottom: 10px">📱 Mobile</p>
-    <img src="./assets/images/mobile.png" alt="Captura de tela do projeto em execução" width="200">
+    <strong style="margin-bottom: 10px;">📱 Mobile</strong>
+    <img src="./assets/images/Mobile.png" alt="Captura de tela do projeto em execução" width="200">
   </div>
 </div>
+
+## How to use 🤔
+
+1. Download or clone the repository to your local machine.
+2. Open the index.html file in your internet browser.
+3. Explore the website and have fun! 😊
+
+I would like to thank my collaborator 💜 for her help in making this project a reality. It was a great experience working with her and learning from her skills. I hope this collaboration is the first of many successful projects together.
+
+If you have any questions, comments or suggestions, feel free to contact me or my collaborator. We are always looking to improve and appreciate constructive feedback. 🙏
+
+Thank you for checking out my HTML, CSS, and JavaScript project! 😊
+
+---
+*The design of this project is based on challenge 32 "Mine Project" from the Codelândia community, created by Iuri Silva. 🎨*
+
+<div style="height: 75px;"></div>
+
+# Codelândia - Projeto Mine 🚀 PT-BR
+
+Este é meu primeiro projeto no GitHub e estou muito animado em compartilhá-lo com vocês! 😃 Este projeto foi criado como uma forma de aplicar e aprimorar meus conhecimentos em HTML, CSS e JavaScript.
+
 
 ## Como usar 🤔
 
@@ -27,3 +50,4 @@ Obrigado por conferir o meu projeto de HTML, CSS e JavaScript! 😊
 
 ---
 *O design deste projeto é baseado no desafio 32 "Projeto Mine" da comunidade Codelândia, criada por Iuri Silva.* 🎨
+
