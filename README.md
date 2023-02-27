@@ -9,7 +9,7 @@ This is my first project on GitHub and I'm very excited to share it with you! �
     <img src="./assets/images/Desktop.png" alt="Captura de tela do projeto em execução" width="600">
   </div>
   <div style="text-align: center;">
-    <strong style="margin-bottom: 10px;">📱 Mobile</strong>
+    <p style="font-weight: bold; margin-bottom: 10px;">📱 Mobile</p>
     <img src="./assets/images/mobile.png" alt="Captura de tela do projeto em execução" width="200">
   </div>
 </div>
