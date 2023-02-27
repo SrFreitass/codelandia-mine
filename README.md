@@ -5,7 +5,7 @@ This is my first project on GitHub and I'm very excited to share it with you! �
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 30px;">
   <div style="text-align: center; margin-right: 50px;">
-    <p style="font-weight: bold; margin-bottom: 10px;">🖥️ Desktop</p>
+    <p style="font-weight: bold; margin-bottom: 10px;">🖥️<b> Desktop</b></p>
     <img src="./assets/images/Desktop.png" alt="Captura de tela do projeto em execução" width="600">
   </div>
   <div style="text-align: center;">
