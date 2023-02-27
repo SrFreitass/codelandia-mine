@@ -4,11 +4,11 @@ Este é meu primeiro projeto no GitHub e estou muito animado em compartilhá-lo 
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 30px;">
   <div style="text-align: center; margin-right: 50px;">
-    <strong style="font-weight: bold; margin-bottom: 10px;">🖥️ Desktop</strong>
+    <strong style="display: inline-block; font-weight: bold; margin-bottom: 10px;">🖥️ Desktop</strong>
     <img src="./assets/images/Desktop.png" alt="Captura de tela do projeto em execução" width="600">
   </div>
   <div style="text-align: center;">
-    <strong style="margin-bottom: 10px;">📱 Mobile</strong>
+    <strong style="display: inline-block; margin-bottom: 10px;">📱 Mobile</strong>
     <img src="./assets/images/mobile.png" alt="Captura de tela do projeto em execução" width="200">
   </div>
 </div>
