@@ -6,11 +6,11 @@ Este é meu primeiro projeto no GitHub e estou muito animado em compartilhá-lo 
   <p style="font-weight: bold; margin-bottom: 10px;">Capturas de tela do projeto em execução</p>
   <div>
     <p style="font-weight: bold; margin-bottom: 5px;">🖥️ Desktop</p>
-    <img src=".assets/images/Desktop.png" alt="Captura de tela do projeto em execução" width="600">
+    <img src="./assets/images/Desktop.png" alt="Captura de tela do projeto em execução" width="600">
   </div>
   <div>
     <p style="font-weight: bold; margin-bottom: 5px;">📱 Mobile</p>
-    <img src=".assets/images/mobile.png" alt="Captura de tela do projeto em execução" width="200">
+    <img src="./assets/images/mobile.png" alt="Captura de tela do projeto em execução" width="200">
   </div>
 </div>
 
