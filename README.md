@@ -2,15 +2,14 @@
 
 Este é meu primeiro projeto no GitHub e estou muito animado em compartilhá-lo com vocês! 😃 Este projeto foi criado como uma forma de aplicar e aprimorar meus conhecimentos em HTML, CSS e JavaScript.
 
-<div style="text-align: center;">
-  <p style="font-weight: bold; margin-bottom: 10px;">Capturas de tela do projeto em execução</p>
-  <div>
-    <p style="font-weight: bold; margin-bottom: 5px;">🖥️ Desktop</p>
-    <img src="./assets/images/Desktop.png" alt="Captura de tela do projeto em execução" width="600">
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 30px;">
+  <div style="text-align: center; margin-right: 50px;">
+    <p style="font-weight: bold; margin-bottom: 10px;">🖥️ Desktop</p>
+    <img src="./assets/images/desktop.png" alt="Captura de tela do projeto em execução" width="600">
   </div>
-  <div>
-    <p style="font-weight: bold; margin-bottom: 5px;">📱 Mobile</p>
-    <img src="./assets/images/mobile.png" alt="Captura de tela do projeto em execução" width="200">
+  <div style="text-align: center;">
+    <p style="font-weight: bold; margin-bottom: 10px;">📱 Mobile</p>
+    <img src="./assets/images/Mobile.png" alt="Captura de tela do projeto em execução" width="200">
   </div>
 </div>
 
@@ -28,4 +27,3 @@ Obrigado por conferir o meu projeto de HTML, CSS e JavaScript! 😊
 
 ---
 *O design deste projeto é baseado no desafio 32 "Projeto Mine" da comunidade Codelândia, criada por Iuri Silva.* 🎨
-
