@@ -29,7 +29,7 @@ Thank you for checking out my HTML, CSS, and JavaScript project! 😊
 ---
 *The design of this project is based on challenge 32 "Mine Project" from the Codelândia community, created by Iuri Silva. 🎨*
 
-<div style="height: 75px;"></div>
+<div style="height: 10vh;"></div>
 
 # Codelândia - Projeto Mine 🚀 PT-BR
 
