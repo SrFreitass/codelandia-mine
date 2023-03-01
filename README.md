@@ -1,5 +1,6 @@
 
 # Codelândia - Minecraft Project 🚀 EN
+## https://srfreitass.github.io/codelandia-mine/
 
 This is my first project on GitHub and I'm very excited to share it with you! 😃 This project was created as a way to apply and improve my knowledge in HTML, CSS, and JavaScript.
 
